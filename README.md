@@ -1,5 +1,4 @@
 # CarlosMartinez
-readme
 👋 ¡Hola! Soy Carlos Martínez, un entusiasta recién graduado de un bootcamp de desarrollo de software de 4 meses. Durante mi formación, me sumergí en el emocionante mundo del desarrollo web, donde adquirí habilidades en HTML, CSS y JavaScript, y también me aventuré en el maravilloso universo de React.
 
 🔨 Además de mis habilidades técnicas, tengo experiencia en la metodología Scrum, donde desempeñé roles clave como Scrum Master y Líder Técnico. Estas experiencias me permitieron liderar equipos y proyectos de manera efectiva, garantizando la entrega puntual y la calidad del producto.
