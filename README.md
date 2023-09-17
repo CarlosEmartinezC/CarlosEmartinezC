@@ -10,7 +10,7 @@ Habilidades: HTML / REACT / JS / NODE / CSS / TAILWIND / FIGMA / REACT NATIVE / 
 - 🌱 Estoy aprendiendo React native y Flutter 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CarlosEmartinezC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/Carlos-MartinezC/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/t-mobile.svg' alt='t-mobile' height='40'>](https://torre.ai/s/q71teu4ZTW)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeship.svg' alt='codeship' height='40'>](https://carlos-martinez-wed.vercel.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CarlosEmartinezC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/carlos-martinezc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/t-mobile.svg' alt='t-mobile' height='40'>](https://torre.ai/s/q71teu4ZTW)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeship.svg' alt='codeship' height='40'>](https://carlos-martinez-wed.vercel.app/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/CarlosEmartinezC&show_icons=true)  
 
