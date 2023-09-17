@@ -1,12 +1,16 @@
-# CarlosMartinez
-👋 ¡Hola! Soy Carlos Martínez, un entusiasta recién graduado de un bootcamp de desarrollo de software de 4 meses. Durante mi formación, me sumergí en el emocionante mundo del desarrollo web, donde adquirí habilidades en HTML, CSS y JavaScript, y también me aventuré en el maravilloso universo de React.
+### Hola 👋, mi nombre es Carlos Martinez
+#### Soy desarrollador Front End 
+![Soy desarrollador Front End ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-🔨 Además de mis habilidades técnicas, tengo experiencia en la metodología Scrum, donde desempeñé roles clave como Scrum Master y Líder Técnico. Estas experiencias me permitieron liderar equipos y proyectos de manera efectiva, garantizando la entrega puntual y la calidad del producto.
+Soy un desarrollador proactivo, con excelentes habilidades de comunicación. Me adapto rápidamente a entornos de trabajo ágiles, aportando ideas innovadoras en cada sprint. Busco constantemente optimizar mis habilidades técnicas a través de cursos y certificaciones.
+Me enorgullezco de haber participado en proyectos retadores, entregando resultados a tiempo y cumpliendo los más altos estándares de calidad. Estoy listo para sumar mi experiencia a un equipo de desarrollo dinámico y crecer profesionalmente en una empresa innovadora.
 
-💡 También estoy explorando tecnologías como React Native y Flutter, aunque aún no he tenido la oportunidad de aplicarlas en proyectos prácticos.
+Habilidades: HTML / REACT / JS / NODE / CSS / TAILWIND / FIGMA / REACT NATIVE / LIDERAZGO /ADAPTACION / PROACTIVIDAD / RECURSIVIDAD / COMUNICACION / OBJETIVIDAD / DISCIPLINA / APASIONADO
 
-🚀 Mi objetivo es seguir creciendo como desarrollador y contribuir al mundo de la tecnología de maneras innovadoras. Estoy abierto a oportunidades laborales donde pueda aplicar mis habilidades existentes y aprender aún más.
+- 🌱 Estoy aprendiendo React native y Flutter 
 
-🌟 Si buscas a alguien con una base sólida en desarrollo web, experiencia en Scrum y un deseo constante de aprender y crecer, ¡hablemos! Estoy emocionado por las posibilidades que el futuro tiene reservadas.
 
-Listo para construir soluciones digitales asombrosas, liderar equipos y crear un impacto positivo en el mundo. ¡Conectemos!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CarlosEmartinezC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/Carlos-MartinezC/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/t-mobile.svg' alt='t-mobile' height='40'>](https://torre.ai/s/q71teu4ZTW)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeship.svg' alt='codeship' height='40'>](https://carlos-martinez-wed.vercel.app/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/CarlosEmartinezC&show_icons=true)  
+
