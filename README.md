@@ -1,16 +1,69 @@
-### Hola 👋, mi nombre es Carlos Martinez
-#### Soy desarrollador Front End 
-![Soy desarrollador Front End ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<div align="center"> 
+  <h1>Hola 👋, mi nombre es Carlos Martinez <br/>
+      Soy desarrollador Front End </h1>
+<div>
+  <a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF"       
+   src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>    </picture> Sobre mi  <br/>
+  <p style="text-align:justify;">Soy un desarrollador proactivo, con excelentes habilidades de comunicación. Me adapto           rápidamente a entornos de trabajo ágiles, aportando ideas innovadoras en cada sprint. Busco constantemente optimizar        mis habilidades técnicas a través de cursos y certificaciones.
+     Me enorgullezco de haber participado en proyectos retadores, entregando resultados a tiempo y cumpliendo los más altos      estándares de calidad. Estoy listo para sumar mi experiencia a un equipo de desarrollo dinámico y crecer         
+     profesionalmente en una empresa innovadora.</p>
+  <br/>
+</div>
+<div>
+  <ul align="left" style="">
+    <li>HTML</li>
+    <li>REACT</li>
+    <li>JS</li>
+    <li>NODE</li>
+    <li>CSS</li>
+    <li>TAILWIND</li>
+    <li>FIGMA</li>
+    <li>REACT NATIVE</li>
+    <li>LIDERAZGO</li>
+    <li>ADAPTACIÓN</li>
+    <li>PROACTIVIDAD</li>
+    <li>RECURSIVIDAD</li>
+    <li>COMUNICACIÓN</li>
+    <li>OBJETIVIDAD</li>
+    <li>DISCIPLINA</li>
+    <li>APASIONADO</li>
+  </ul>
+</div>
 
-Soy un desarrollador proactivo, con excelentes habilidades de comunicación. Me adapto rápidamente a entornos de trabajo ágiles, aportando ideas innovadoras en cada sprint. Busco constantemente optimizar mis habilidades técnicas a través de cursos y certificaciones.
-Me enorgullezco de haber participado en proyectos retadores, entregando resultados a tiempo y cumpliendo los más altos estándares de calidad. Estoy listo para sumar mi experiencia a un equipo de desarrollo dinámico y crecer profesionalmente en una empresa innovadora.
 
-Habilidades: HTML / REACT / JS / NODE / CSS / TAILWIND / FIGMA / REACT NATIVE / LIDERAZGO /ADAPTACION / PROACTIVIDAD / RECURSIVIDAD / COMUNICACION / OBJETIVIDAD / DISCIPLINA / APASIONADO
+
+
+
+
+
+
 
 - 🌱 Estoy aprendiendo React native y Flutter 
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CarlosEmartinezC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/carlos-martinezc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/t-mobile.svg' alt='t-mobile' height='40'>](https://torre.ai/s/q71teu4ZTW)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeship.svg' alt='codeship' height='40'>](https://carlos-martinez-wed.vercel.app/)  
+<p align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/CarlosEmartinezC&show_icons=true)  
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
 
+</p>
