@@ -56,47 +56,16 @@
       height="40" /> </a>  <a href="https://git-scm.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
   </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-</p> 
+<a href="https://tailwindcss.com/"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+</p> 🌱 Estoy aprendiendo React native y Flutter 
 	
- 
- 
- 
- 
- <ul align="left" style="">
-    <li>HTML</li>
-    <li>REACT</li>
-    <li>JS</li>
-    <li>NODE</li>
-    <li>CSS</li>
-    <li>TAILWIND</li>
-    <li>FIGMA</li>
-    <li>REACT NATIVE</li>
-    <li>LIDERAZGO</li>
-    <li>ADAPTACIÓN</li>
-    <li>PROACTIVIDAD</li>
-    <li>RECURSIVIDAD</li>
-    <li>COMUNICACIÓN</li>
-    <li>OBJETIVIDAD</li>
-    <li>DISCIPLINA</li>
-    <li>APASIONADO</li>
-  </ul>
+ <h2>Habilidades blandas</h2>
+LIDERAZGO | ADAPTACIÓN | PROACTIVIDAD | RECURSIVIDAD | COMUNICACIÓN | OBJETIVIDAD | DISCIPLINA | APASIONADO 
 </div>
-
-
-
-
-
-
-
-
-
-- 🌱 Estoy aprendiendo React native y Flutter 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center"> 
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/carlose-martinez-c/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -109,5 +78,6 @@
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1khQ6q3hf1vyFNixM4rYbbULpSh7uhCOZ/view?usp=sharing">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
-
 </p>
+<h5>TELEFONO: 3045454461</h5>
+<h5>CORREO: cenriquemsrtinezc@gmail.com</h5>
