@@ -62,7 +62,7 @@ LIDERAZGO | ADAPTACIÓN | PROACTIVIDAD | RECURSIVIDAD | COMUNICACIÓN | OBJETIVI
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://torre.ai/s/IRL1mlLrHF">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+	   <a style="margin-left: 10px;" target="_blank" href="https://carlos-martinez-wed.vercel.app/">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1khQ6q3hf1vyFNixM4rYbbULpSh7uhCOZ/view?usp=sharing">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
